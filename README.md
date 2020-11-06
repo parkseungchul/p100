@@ -13,7 +13,7 @@
 # <hr>
 
 
-### [P104. VMware Player and Device/Credential Guard are not compatible]
+### [P104. VMware Player and Device/Credential Guard are not compatible](https://youtu.be/KNXTi0TkQk8)
 #### vmware iso 파일 구동 안될 때 
 ```
 mountvol X: /s

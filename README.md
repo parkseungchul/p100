@@ -1,19 +1,19 @@
 # [에러 처리](https://www.youtube.com/playlist?list=PLogzC_RPf25HEhe3ppTA_gWglxa853jgd)
 
-### [P101.SunCertPathBuilderException](https://youtu.be/obbhEkm6cgs)
+### [SunCertPathBuilderException](https://youtu.be/obbhEkm6cgs)
 #### STS에서 Spring Boot 프로젝트 만들 때 나는 에러 
 # <hr>
 
-### [P102.could not find a version that satisfies the requirement](https://youtu.be/SvFBGJaGWeY)
+### [could not find a version that satisfies the requirement](https://youtu.be/SvFBGJaGWeY)
 #### 파이참(파이썬)에서 패키지 임포트 할 때 나는 에러
 # <hr>
 
-### [P103.get http://%2f%2f.%2fpipe%2fdocker_engine/v1.40/containers/json](https://youtu.be/gg4copHAtVQ)
+### [get http://%2f%2f.%2fpipe%2fdocker_engine/v1.40/containers/json](https://youtu.be/gg4copHAtVQ)
 #### 윈도우에 도커를 설치하고 나서 구동할 때 나는 에러 (feat. 응 윈도우는 아니야~)
 # <hr>
 
 
-### [P104.VMware Player and Device/Credential Guard are not compatible](https://youtu.be/KNXTi0TkQk8)
+### [VMware Player and Device/Credential Guard are not compatible](https://youtu.be/KNXTi0TkQk8)
 #### vmware iso 파일 구동 안될 때 
 ```
 mountvol X: /s
@@ -28,6 +28,6 @@ bcdedit /set hypervisorlaunchtype off
 ```
 # <hr>
 
-### [P105.no matching manifest for windows/amd64 in the manifest list entries](https://youtu.be/CtFWWzMAqg0)
+### [no matching manifest for windows/amd64 in the manifest list entries](https://youtu.be/CtFWWzMAqg0)
 #### 윈도우 도커에 이미지 가져올 때 나는 에러 (feat. 응 윈도우는 아니야~)
 # <hr>

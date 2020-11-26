@@ -46,3 +46,14 @@ bcdedit /set hypervisorlaunchtype off
 #### root 쓰지 말라는 잔소리
 # <hr>
 
+### [Docker registry Viewer](https://youtu.be/TDGW0c5wmV8)
+#### 1. Make Docker registry 
+#### 2. Insert image & tag at Docker registry
+#### 3. Check image & tag by CURL command
+#### 4. Make Docker registry View 
+#### 5. Check image & tag by Web
+#### 6. Introduce regiview at Docker hub
+##### https://hub.docker.com/repository/docker/parkseungchul/regiview
+# <hr>
+
+

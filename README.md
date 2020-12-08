@@ -56,4 +56,12 @@ bcdedit /set hypervisorlaunchtype off
 ##### https://hub.docker.com/repository/docker/parkseungchul/regiview
 # <hr>
 
-
+### [야 나두 centos7(feat. 윈도우 이제 그만~]()
+#### 1. VMware Download 
+#### 2. CentOS7 Download 
+#### 3. VMware Install
+#### 4. CentOS7 Install 
+#### 5. CentOS7 IP set
+#### 6. VMware IP set
+#### 7. Connect SSH
+# <hr>

@@ -63,16 +63,16 @@ bcdedit /set hypervisorlaunchtype off
 #### 4. CentOS7 Install 
 #### 5. CentOS7 IP set
 #### 6. VMware IP set
-#### 7. Connect SSH
+#### 7. Connect SSH 
 # <hr>
 
 ### [P109. Spring Boot DockerFile 만들기(feat. 아주 이쁘게)]()
 #### Centos8에서
-#### Git을 이용해서 
-#### Spring Boot 소스를 가져 와서
-#### Maven 빌드를 하고
-#### Asia/Seoul 시간대로 옵션을 주고 맞추고
-#### DockerFile을 만들어서
-#### 환경변수로 C.UTF-8을 줘서 한글도 잘 나오고
+#### Git 잘 구슬려서 
+#### Spring Boot 소스를 가져 오구오구
+#### Maven 빌드도 하궁
+#### Asia/Seoul 시간대로 옵션을 주고 맞춰써
+#### DockerFile을 만들엌
+#### 환경변수로 C.UTF-8을 줘서 한글도 잘 나오넹?
 #### 결론적으로 이쁘게 Spring Boot Container 구동!!!
 # <hr>

@@ -56,7 +56,7 @@ bcdedit /set hypervisorlaunchtype off
 ##### https://hub.docker.com/repository/docker/parkseungchul/regiview
 # <hr>
 
-### [야 나두 centos7(feat. 윈도우 이제 그만~)](https://youtu.be/r6tuoqK-hhs)
+### [P108. 야 나두 centos7(feat. 윈도우 이제 그만~)](https://youtu.be/r6tuoqK-hhs)
 #### 1. VMware Download 
 #### 2. CentOS7 Download 
 #### 3. VMware Install
@@ -64,4 +64,15 @@ bcdedit /set hypervisorlaunchtype off
 #### 5. CentOS7 IP set
 #### 6. VMware IP set
 #### 7. Connect SSH
+# <hr>
+
+### [P109. Spring Boot DockerFile 만들기(feat. 아주 이쁘게)]()
+#### Centos8에서
+#### Git을 이용해서 
+#### Spring Boot 소스를 가져 와서
+#### Maven 빌드를 하고
+#### Asia/Seoul 시간대로 옵션을 주고 맞추고
+#### DockerFile을 만들어서
+#### 환경변수로 C.UTF-8을 줘서 한글도 잘 나오고
+#### 결론적으로 이쁘게 Spring Boot Container 구동!!!
 # <hr>

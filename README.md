@@ -1,10 +1,10 @@
 # [에러 처리](https://www.youtube.com/playlist?list=PLogzC_RPf25HEhe3ppTA_gWglxa853jgd)
 
-### [SunCertPathBuilderException](https://youtu.be/obbhEkm6cgs)
+### [SunCertPathBuilderException](https://youtu.be/DufIIA1BvZg)
 #### STS에서 Spring Boot 프로젝트 만들 때 나는 에러 
 # <hr>
 
-### [could not find a version that satisfies the requirement](https://youtu.be/SvFBGJaGWeY)
+### [could not find a version that satisfies the requirement](https://youtu.be/oZrPcm6vxSI)
 #### 파이참(파이썬)에서 패키지 임포트 할 때 나는 에러
 # <hr>
 
@@ -13,7 +13,7 @@
 # <hr>
 
 
-### [VMware Player and Device/Credential Guard are not compatible](https://youtu.be/KNXTi0TkQk8)
+### [VMware Player and Device/Credential Guard are not compatible](https://youtu.be/7zVQMglTWTc)
 #### vmware iso 파일 구동 안될 때 
 ```
 mountvol X: /s
@@ -28,7 +28,7 @@ bcdedit /set hypervisorlaunchtype off
 ```
 # <hr>
 
-### [no matching manifest for windows/amd64 in the manifest list entries](https://youtu.be/CtFWWzMAqg0)
+### [no matching manifest for windows/amd64 in the manifest list entries](https://youtu.be/fh2-vkJyGoc)
 #### 윈도우 도커에 이미지 가져올 때 나는 에러 (feat. 응 윈도우는 아니야~)
 # <hr>
 
@@ -39,14 +39,14 @@ bcdedit /set hypervisorlaunchtype off
 #### httpd 설치하고 서비스 테스트 하기
 # <hr>
 
-### [VMWare에 CentOS8 설치](https://youtu.be/EK_M-m1ZnMs)
+### [VMWare에 CentOS8 설치](https://youtu.be/eniY_FwUJW4)
 #### CentOS8 네트워크 잡기
 #### CentOS8 사용자 만들기
 #### CentOS8 사용자 sudo 권한 주기
 #### root 쓰지 말라는 잔소리
 # <hr>
 
-### [Docker registry Viewer](https://youtu.be/TDGW0c5wmV8)
+### [Docker registry Viewer](https://youtu.be/hU5DRg4TAUE)
 #### 1. Make Docker registry 
 #### 2. Insert image & tag at Docker registry
 #### 3. Check image & tag by CURL command
@@ -56,7 +56,7 @@ bcdedit /set hypervisorlaunchtype off
 ##### https://hub.docker.com/repository/docker/parkseungchul/regiview
 # <hr>
 
-### [P108. 야 나두 centos7(feat. 윈도우 이제 그만~)](https://youtu.be/r6tuoqK-hhs)
+### [야 나두 centos7(feat. 윈도우 이제 그만~)](https://youtu.be/ncE6vP74_5o)
 #### 1. VMware Download 
 #### 2. CentOS7 Download 
 #### 3. VMware Install
@@ -66,7 +66,7 @@ bcdedit /set hypervisorlaunchtype off
 #### 7. Connect SSH 
 # <hr>
 
-### [P109. Spring Boot DockerFile 만들기(feat. 아주 이쁘게)](https://youtu.be/xlfH4jjEI3Y)
+### [Spring Boot DockerFile 만들기(feat. 아주 이쁘게)](https://youtu.be/MJkbRYiQKCE)
 #### Centos8에서
 #### Git 잘 구슬려서 
 #### Spring Boot 소스를 가져 오구오구

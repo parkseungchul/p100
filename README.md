@@ -32,14 +32,14 @@ bcdedit /set hypervisorlaunchtype off
 #### 윈도우 도커에 이미지 가져올 때 나는 에러 (feat. 응 윈도우는 아니야~)
 # <hr>
 
-### [CentOS8 docker 설치](https://youtu.be/wd5EdxRjlME)
+### [CentOS8 docker 설치](https://youtu.be/qNtOO8CGewM)
 #### 공식 사이트 참고하여 CentOS8에 docker 설치
 #### 설치 시 나오는 에러 처리하기
 #### 서비스로 등록하기
 #### httpd 설치하고 서비스 테스트 하기
 # <hr>
 
-### [VMWare에 CentOS8 설치](https://youtu.be/qNtOO8CGewM)
+### [VMWare에 CentOS8 설치](https://youtu.be/eniY_FwUJW4)
 #### CentOS8 네트워크 잡기
 #### CentOS8 사용자 만들기
 #### CentOS8 사용자 sudo 권한 주기

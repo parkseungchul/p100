@@ -39,7 +39,7 @@ bcdedit /set hypervisorlaunchtype off
 #### httpd 설치하고 서비스 테스트 하기
 # <hr>
 
-### [VMWare에 CentOS8 설치](https://youtu.be/eniY_FwUJW4)
+### [VMWare에 CentOS8 설치](https://youtu.be/qNtOO8CGewM)
 #### CentOS8 네트워크 잡기
 #### CentOS8 사용자 만들기
 #### CentOS8 사용자 sudo 권한 주기
